@@ -1,7 +1,7 @@
 {
   "name": "brainfables",
-  "description": "After each substantive request — a feature implemented, a bug debugged — record a fable: a self-contained, interactive explainer of the problem, the journey, and the fix, saved to your BrainFables dashboard via the brainfables MCP server. Auto-documentation of agent work, searchable so you never re-solve a solved problem.",
-  "version": "1.0.0",
+  "description": "Keep a live BrainFables dashboard current while you work: update the last task, surface copy/paste items and todos for the project owner, keep a mermaid architecture diagram fresh, and record a fable-format timeline entry after each completed task — all via the brainfables MCP server.",
+  "version": "2.0.0",
   "author": {
     "name": "Joe Muller",
     "url": "https://github.com/jtmuller5"
@@ -9,5 +9,13 @@
   "homepage": "https://brainfables.com",
   "repository": "https://github.com/jtmuller5/brainfables-skill",
   "license": "MIT",
-  "keywords": ["documentation", "fables", "mcp", "agents", "knowledge-base", "search"]
+  "keywords": [
+    "dashboard",
+    "mcp",
+    "agents",
+    "documentation",
+    "todos",
+    "mermaid",
+    "timeline"
+  ]
 }
