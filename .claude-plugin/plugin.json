@@ -1,0 +1,13 @@
+{
+  "name": "brainfables",
+  "description": "After each substantive request — a feature implemented, a bug debugged — record a fable: a self-contained, interactive explainer of the problem, the journey, and the fix, saved to your BrainFables dashboard via the brainfables MCP server. Auto-documentation of agent work, searchable so you never re-solve a solved problem.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Joe Muller",
+    "url": "https://github.com/jtmuller5"
+  },
+  "homepage": "https://brainfables.com",
+  "repository": "https://github.com/jtmuller5/brainfables-skill",
+  "license": "MIT",
+  "keywords": ["documentation", "fables", "mcp", "agents", "knowledge-base", "search"]
+}
